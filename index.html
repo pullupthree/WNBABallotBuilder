@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f36c00" />
+    <title>2026 WNBA Awards Ballot | Pull Up Three</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="ballot-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Pull Up Three</p>
+          <h1>2026 WNBA<br />Awards Ballot</h1>
+          <p class="hero-note">Make your picks. Build your ballot.</p>
+        </div>
+        <img class="brand-logo" src="pull_up_3_logo.PNG" alt="Pull Up Three logo" />
+      </header>
+
+      <div class="site-toolbar">
+        <div class="progress">
+          <span class="progress-track" aria-hidden="true"><span class="progress-fill" id="progress-fill"></span></span>
+          <span id="selection-count" aria-live="polite">0 of 30 picks</span>
+        </div>
+        <div class="toolbar-actions">
+          <button class="text-button" id="reset-ballot" type="button">Reset ballot</button>
+          <button class="primary-button" id="capture-view" type="button">Capture view</button>
+        </div>
+      </div>
+
+      <div id="ballot" class="ballot"></div>
+    </main>
+
+    <button class="exit-capture" id="exit-capture" type="button">
+      Exit capture view <kbd>Esc</kbd>
+    </button>
+
+    <dialog class="player-dialog" id="player-dialog" aria-labelledby="dialog-title">
+      <form method="dialog" id="player-form">
+        <div class="dialog-header">
+          <div>
+            <p class="dialog-kicker" id="dialog-category">Award</p>
+            <h2 id="dialog-title">Choose a player</h2>
+          </div>
+          <button class="icon-button" id="close-dialog" type="button" aria-label="Close player picker">
+            <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+              <path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" />
+            </svg>
+          </button>
+        </div>
+
+        <div class="filter-grid">
+          <label>
+            <span>Search</span>
+            <input id="player-search" type="search" placeholder="Name, team, or position" autocomplete="off" />
+          </label>
+          <label>
+            <span>Team</span>
+            <select id="team-filter">
+              <option value="">All teams</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="list-heading">
+          <span id="player-list-label">Players</span>
+          <span class="result-count" id="result-count"></span>
+        </div>
+        <div class="player-list" id="player-list" role="radiogroup" aria-labelledby="player-list-label"></div>
+
+        <div class="dialog-actions">
+          <button class="danger-button" id="clear-selection" type="button">Remove pick</button>
+          <div>
+            <button class="text-button" id="cancel-selection" type="button">Cancel</button>
+            <button class="primary-button" id="save-selection" type="submit">Save pick</button>
+          </div>
+        </div>
+      </form>
+    </dialog>
+
+    <template id="slot-template">
+      <button class="player-slot is-empty" type="button">
+        <span class="award-label" hidden>
+          <span class="award-code"></span>
+          <span class="award-name"></span>
+        </span>
+        <span class="portrait" aria-hidden="true">
+          <img alt="" />
+          <span class="initials"></span>
+          <span class="add-mark"></span>
+        </span>
+        <span class="slot-text">
+          <span class="player-name">Add player</span>
+          <span class="player-meta"></span>
+        </span>
+      </button>
+    </template>
+
+    <script src="wnba_roster_data.js" defer></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>

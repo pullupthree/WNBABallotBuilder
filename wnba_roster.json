@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "atlanta-dream-dewanna-bonner",
+    "firstName": "DeWanna",
+    "lastName": "Bonner",
+    "fullName": "DeWanna Bonner",
+    "position": "F/G",
+    "team": "Atlanta Dream",
+    "age": 39,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/201886.png"
+  },
+  {
+    "id": "atlanta-dream-isobel-borlase",
+    "firstName": "Isobel",
+    "lastName": "Borlase",
+    "fullName": "Isobel Borlase",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642302.png"
+  },
+  {
+    "id": "atlanta-dream-jordin-canada",
+    "firstName": "Jordin",
+    "lastName": "Canada",
+    "fullName": "Jordin Canada",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628886.png"
+  },
+  {
+    "id": "atlanta-dream-allisha-gray",
+    "firstName": "Allisha",
+    "lastName": "Gray",
+    "fullName": "Allisha Gray",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628277.png"
+  },
+  {
+    "id": "atlanta-dream-naz-hillmon",
+    "firstName": "Naz",
+    "lastName": "Hillmon",
+    "fullName": "Naz Hillmon",
+    "position": "F",
+    "team": "Atlanta Dream",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631044.png"
+  },
+  {
+    "id": "atlanta-dream-rhyne-howard",
+    "firstName": "Rhyne",
+    "lastName": "Howard",
+    "fullName": "Rhyne Howard",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631009.png"
+  },
+  {
+    "id": "atlanta-dream-brionna-jones",
+    "firstName": "Brionna",
+    "lastName": "Jones",
+    "fullName": "Brionna Jones",
+    "position": "F",
+    "team": "Atlanta Dream",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628280.png"
+  },
+  {
+    "id": "atlanta-dream-sika-kone",
+    "firstName": "Sika",
+    "lastName": "Koné",
+    "fullName": "Sika Koné",
+    "position": "F",
+    "team": "Atlanta Dream",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631021.png"
+  },
+  {
+    "id": "atlanta-dream-indya-nivar",
+    "firstName": "Indya",
+    "lastName": "Nivar",
+    "fullName": "Indya Nivar",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643469.png"
+  },
+  {
+    "id": "atlanta-dream-madina-okot",
+    "firstName": "Madina",
+    "lastName": "Okot",
+    "fullName": "Madina Okot",
+    "position": "C",
+    "team": "Atlanta Dream",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643431.png"
+  },
+  {
+    "id": "atlanta-dream-te-hina-paopao",
+    "firstName": "Te-Hina",
+    "lastName": "Paopao",
+    "fullName": "Te-Hina Paopao",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642804.png"
+  },
+  {
+    "id": "atlanta-dream-angel-reese",
+    "firstName": "Angel",
+    "lastName": "Reese",
+    "fullName": "Angel Reese",
+    "position": "F",
+    "team": "Atlanta Dream",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642291.png"
+  },
+  {
+    "id": "atlanta-dream-matilde-villa",
+    "firstName": "Matilde",
+    "lastName": "Villa",
+    "fullName": "Matilde Villa",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 21,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642327.png"
+  },
+  {
+    "id": "atlanta-dream-shatori-walker-kimbrough",
+    "firstName": "Shatori",
+    "lastName": "Walker-Kimbrough",
+    "fullName": "Shatori Walker-Kimbrough",
+    "position": "G",
+    "team": "Atlanta Dream",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628278.png"
+  },
+  {
+    "id": "chicago-sky-rachel-banham",
+    "firstName": "Rachel",
+    "lastName": "Banham",
+    "fullName": "Rachel Banham",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627671.png"
+  },
+  {
+    "id": "chicago-sky-kate-martin",
+    "firstName": "Kate",
+    "lastName": "Martin",
+    "fullName": "Kate Martin",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642324.png"
+  },
+  {
+    "id": "chicago-sky-kamilla-cardoso",
+    "firstName": "Kamilla",
+    "lastName": "Cardoso",
+    "fullName": "Kamilla Cardoso",
+    "position": "C",
+    "team": "Chicago Sky",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642289.png"
+  },
+  {
+    "id": "chicago-sky-dijonai-carrington",
+    "firstName": "DiJonai",
+    "lastName": "Carrington",
+    "fullName": "DiJonai Carrington",
+    "position": "G/F",
+    "team": "Chicago Sky",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630096.png"
+  },
+  {
+    "id": "chicago-sky-natasha-cloud",
+    "firstName": "Natasha",
+    "lastName": "Cloud",
+    "fullName": "Natasha Cloud",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204333.png"
+  },
+  {
+    "id": "chicago-sky-aicha-coulibaly",
+    "firstName": "Aicha",
+    "lastName": "Coulibaly",
+    "fullName": "Aicha Coulibaly",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642786.png"
+  },
+  {
+    "id": "chicago-sky-skylar-diggins",
+    "firstName": "Skylar",
+    "lastName": "Diggins",
+    "fullName": "Skylar Diggins",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 36,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203400.png"
+  },
+  {
+    "id": "chicago-sky-rickea-jackson",
+    "firstName": "Rickea",
+    "lastName": "Jackson",
+    "fullName": "Rickea Jackson",
+    "position": "F",
+    "team": "Chicago Sky",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642288.png"
+  },
+  {
+    "id": "chicago-sky-gabriela-jaquez",
+    "firstName": "Gabriela",
+    "lastName": "Jaquez",
+    "fullName": "Gabriela Jaquez",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643447.png"
+  },
+  {
+    "id": "chicago-sky-morgan-maly",
+    "firstName": "Morgan",
+    "lastName": "Maly",
+    "fullName": "Morgan Maly",
+    "position": "F",
+    "team": "Chicago Sky",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642835.png"
+  },
+  {
+    "id": "chicago-sky-jacy-sheldon",
+    "firstName": "Jacy",
+    "lastName": "Sheldon",
+    "fullName": "Jacy Sheldon",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642292.png"
+  },
+  {
+    "id": "chicago-sky-azura-stevens",
+    "firstName": "Azurá",
+    "lastName": "Stevens",
+    "fullName": "Azurá Stevens",
+    "position": "F/C",
+    "team": "Chicago Sky",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628922.png"
+  },
+  {
+    "id": "chicago-sky-sydney-taylor",
+    "firstName": "Sydney",
+    "lastName": "Taylor",
+    "fullName": "Sydney Taylor",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642321.png"
+  },
+  {
+    "id": "chicago-sky-courtney-vandersloot",
+    "firstName": "Courtney",
+    "lastName": "Vandersloot",
+    "fullName": "Courtney Vandersloot",
+    "position": "G",
+    "team": "Chicago Sky",
+    "age": 37,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/202664.png"
+  },
+  {
+    "id": "chicago-sky-elizabeth-williams",
+    "firstName": "Elizabeth",
+    "lastName": "Williams",
+    "fullName": "Elizabeth Williams",
+    "position": "C/F",
+    "team": "Chicago Sky",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204322.png"
+  },
+  {
+    "id": "connecticut-sun-nell-angloma",
+    "firstName": "Nell",
+    "lastName": "Angloma",
+    "fullName": "Nell Angloma",
+    "position": "F",
+    "team": "Connecticut Sun",
+    "age": 20,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643448.png"
+  },
+  {
+    "id": "connecticut-sun-raegan-beers",
+    "firstName": "Raegan",
+    "lastName": "Beers",
+    "fullName": "Raegan Beers",
+    "position": "F",
+    "team": "Connecticut Sun",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643441.png"
+  },
+  {
+    "id": "connecticut-sun-kennedy-burke",
+    "firstName": "Kennedy",
+    "lastName": "Burke",
+    "fullName": "Kennedy Burke",
+    "position": "G/F",
+    "team": "Connecticut Sun",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629568.png"
+  },
+  {
+    "id": "connecticut-sun-aaliyah-edwards",
+    "firstName": "Aaliyah",
+    "lastName": "Edwards",
+    "fullName": "Aaliyah Edwards",
+    "position": "F",
+    "team": "Connecticut Sun",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642290.png"
+  },
+  {
+    "id": "connecticut-sun-brittney-griner",
+    "firstName": "Brittney",
+    "lastName": "Griner",
+    "fullName": "Brittney Griner",
+    "position": "C",
+    "team": "Connecticut Sun",
+    "age": 35,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203398.png"
+  },
+  {
+    "id": "connecticut-sun-ashlon-jackson",
+    "firstName": "Ashlon",
+    "lastName": "Jackson",
+    "fullName": "Ashlon Jackson",
+    "position": "G",
+    "team": "Connecticut Sun",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643437.png"
+  },
+  {
+    "id": "connecticut-sun-gianna-kneepkens",
+    "firstName": "Gianna",
+    "lastName": "Kneepkens",
+    "fullName": "Gianna Kneepkens",
+    "position": "G",
+    "team": "Connecticut Sun",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643429.png"
+  },
+  {
+    "id": "connecticut-sun-leila-lacan",
+    "firstName": "Leïla",
+    "lastName": "Lacan",
+    "fullName": "Leïla Lacan",
+    "position": "G",
+    "team": "Connecticut Sun",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642303.png"
+  },
+  {
+    "id": "connecticut-sun-charlisse-leger-walker",
+    "firstName": "Charlisse",
+    "lastName": "Leger-Walker",
+    "fullName": "Charlisse Leger-Walker",
+    "position": "G",
+    "team": "Connecticut Sun",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643449.png"
+  },
+  {
+    "id": "connecticut-sun-diamond-miller",
+    "firstName": "Diamond",
+    "lastName": "Miller",
+    "fullName": "Diamond Miller",
+    "position": "F",
+    "team": "Connecticut Sun",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641649.png"
+  },
+  {
+    "id": "connecticut-sun-olivia-nelson-ododa",
+    "firstName": "Olivia",
+    "lastName": "Nelson-Ododa",
+    "fullName": "Olivia Nelson-Ododa",
+    "position": "C",
+    "team": "Connecticut Sun",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631135.png"
+  },
+  {
+    "id": "connecticut-sun-saniya-rivers",
+    "firstName": "Saniya",
+    "lastName": "Rivers",
+    "fullName": "Saniya Rivers",
+    "position": "G",
+    "team": "Connecticut Sun",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642809.png"
+  },
+  {
+    "id": "connecticut-sun-hailey-van-lith",
+    "firstName": "Hailey",
+    "lastName": "Van Lith",
+    "fullName": "Hailey Van Lith",
+    "position": "G",
+    "team": "Connecticut Sun",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642817.png"
+  },
+  {
+    "id": "connecticut-sun-rayah-marshall",
+    "firstName": "Rayah",
+    "lastName": "Marshall",
+    "fullName": "Rayah Marshall",
+    "position": "C/F",
+    "team": "Connecticut Sun",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642796.png"
+  },
+  {
+    "id": "indiana-fever-monique-billings",
+    "firstName": "Monique",
+    "lastName": "Billings",
+    "fullName": "Monique Billings",
+    "position": "F",
+    "team": "Indiana Fever",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628881.png"
+  },
+  {
+    "id": "indiana-fever-aliyah-boston",
+    "firstName": "Aliyah",
+    "lastName": "Boston",
+    "fullName": "Aliyah Boston",
+    "position": "C/F",
+    "team": "Indiana Fever",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641648.png"
+  },
+  {
+    "id": "indiana-fever-caitlin-clark",
+    "firstName": "Caitlin",
+    "lastName": "Clark",
+    "fullName": "Caitlin Clark",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642286.png"
+  },
+  {
+    "id": "indiana-fever-sophie-cunningham",
+    "firstName": "Sophie",
+    "lastName": "Cunningham",
+    "fullName": "Sophie Cunningham",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629482.png"
+  },
+  {
+    "id": "indiana-fever-damiris-dantas",
+    "firstName": "Damiris",
+    "lastName": "Dantas",
+    "fullName": "Damiris Dantas",
+    "position": "C/F",
+    "team": "Indiana Fever",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203024.png"
+  },
+  {
+    "id": "indiana-fever-bree-hall",
+    "firstName": "Bree",
+    "lastName": "Hall",
+    "fullName": "Bree Hall",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642788.png"
+  },
+  {
+    "id": "indiana-fever-tyasha-harris",
+    "firstName": "Tyasha",
+    "lastName": "Harris",
+    "fullName": "Tyasha Harris",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630112.png"
+  },
+  {
+    "id": "indiana-fever-myisha-hines-allen",
+    "firstName": "Myisha",
+    "lastName": "Hines-Allen",
+    "fullName": "Myisha Hines-Allen",
+    "position": "F",
+    "team": "Indiana Fever",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628899.png"
+  },
+  {
+    "id": "indiana-fever-lexie-hull",
+    "firstName": "Lexie",
+    "lastName": "Hull",
+    "fullName": "Lexie Hull",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 27,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631086.png"
+  },
+  {
+    "id": "indiana-fever-raven-johnson",
+    "firstName": "Raven",
+    "lastName": "Johnson",
+    "fullName": "Raven Johnson",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643433.png"
+  },
+  {
+    "id": "indiana-fever-kelsey-mitchell",
+    "firstName": "Kelsey",
+    "lastName": "Mitchell",
+    "fullName": "Kelsey Mitchell",
+    "position": "G",
+    "team": "Indiana Fever",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628909.png"
+  },
+  {
+    "id": "indiana-fever-mercedes-russell",
+    "firstName": "Mercedes",
+    "lastName": "Russell",
+    "fullName": "Mercedes Russell",
+    "position": "C",
+    "team": "Indiana Fever",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628920.png"
+  },
+  {
+    "id": "indiana-fever-michelle-onyiah",
+    "firstName": "Michelle",
+    "lastName": "Onyiah",
+    "fullName": "Michelle Onyiah",
+    "position": "F/C",
+    "team": "Indiana Fever",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642803.png"
+  },
+  {
+    "id": "indiana-fever-makayla-timpson",
+    "firstName": "Makayla",
+    "lastName": "Timpson",
+    "fullName": "Makayla Timpson",
+    "position": "F/C",
+    "team": "Indiana Fever",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642815.png"
+  },
+  {
+    "id": "indiana-fever-grace-vanslooten",
+    "firstName": "Grace",
+    "lastName": "VanSlooten",
+    "fullName": "Grace VanSlooten",
+    "position": "F",
+    "team": "Indiana Fever",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643453.png"
+  },
+  {
+    "id": "new-york-liberty-rebecca-allen",
+    "firstName": "Rebecca",
+    "lastName": "Allen",
+    "fullName": "Rebecca Allen",
+    "position": "F/G",
+    "team": "New York Liberty",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204296.png"
+  },
+  {
+    "id": "new-york-liberty-pauline-astier",
+    "firstName": "Pauline",
+    "lastName": "Astier",
+    "fullName": "Pauline Astier",
+    "position": "G",
+    "team": "New York Liberty",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631136.png"
+  },
+  {
+    "id": "new-york-liberty-elizabeth-balogun",
+    "firstName": "Elizabeth",
+    "lastName": "Balogun",
+    "fullName": "Elizabeth Balogun",
+    "position": "F",
+    "team": "New York Liberty",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641663.png"
+  },
+  {
+    "id": "new-york-liberty-raquel-carrera",
+    "firstName": "Raquel",
+    "lastName": "Carrera",
+    "fullName": "Raquel Carrera",
+    "position": "C",
+    "team": "New York Liberty",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630384.png"
+  },
+  {
+    "id": "new-york-liberty-marine-fauthoux",
+    "firstName": "Marine",
+    "lastName": "Fauthoux",
+    "fullName": "Marine Fauthoux",
+    "position": "G",
+    "team": "New York Liberty",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630469.png"
+  },
+  {
+    "id": "new-york-liberty-leonie-fiebich",
+    "firstName": "Leonie",
+    "lastName": "Fiebich",
+    "fullName": "Leonie Fiebich",
+    "position": "F",
+    "team": "New York Liberty",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630142.png"
+  },
+  {
+    "id": "new-york-liberty-rebekah-gardner",
+    "firstName": "Rebekah",
+    "lastName": "Gardner",
+    "fullName": "Rebekah Gardner",
+    "position": "G",
+    "team": "New York Liberty",
+    "age": 36,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203822.png"
+  },
+  {
+    "id": "new-york-liberty-sabrina-ionescu",
+    "firstName": "Sabrina",
+    "lastName": "Ionescu",
+    "fullName": "Sabrina Ionescu",
+    "position": "G",
+    "team": "New York Liberty",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629477.png"
+  },
+  {
+    "id": "new-york-liberty-marine-johannes",
+    "firstName": "Marine",
+    "lastName": "Johannès",
+    "fullName": "Marine Johannès",
+    "position": "G",
+    "team": "New York Liberty",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629546.png"
+  },
+  {
+    "id": "new-york-liberty-jonquel-jones",
+    "firstName": "Jonquel",
+    "lastName": "Jones",
+    "fullName": "Jonquel Jones",
+    "position": "C",
+    "team": "New York Liberty",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627673.png"
+  },
+  {
+    "id": "new-york-liberty-anneli-maley",
+    "firstName": "Anneli",
+    "lastName": "Maley",
+    "fullName": "Anneli Maley",
+    "position": "F",
+    "team": "New York Liberty",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630993.png"
+  },
+  {
+    "id": "new-york-liberty-satou-sabally",
+    "firstName": "Satou",
+    "lastName": "Sabally",
+    "fullName": "Satou Sabally",
+    "position": "F",
+    "team": "New York Liberty",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630149.png"
+  },
+  {
+    "id": "new-york-liberty-madison-scott",
+    "firstName": "Madison",
+    "lastName": "Scott",
+    "fullName": "Madison Scott",
+    "position": "G/F",
+    "team": "New York Liberty",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642810.png"
+  },
+  {
+    "id": "new-york-liberty-breanna-stewart",
+    "firstName": "Breanna",
+    "lastName": "Stewart",
+    "fullName": "Breanna Stewart",
+    "position": "F",
+    "team": "New York Liberty",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627668.png"
+  },
+  {
+    "id": "new-york-liberty-han-xu",
+    "firstName": "Han",
+    "lastName": "Xu",
+    "fullName": "Han Xu",
+    "position": "C",
+    "team": "New York Liberty",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629566.png"
+  },
+  {
+    "id": "toronto-tempo-julie-allemand",
+    "firstName": "Julie",
+    "lastName": "Allemand",
+    "fullName": "Julie Allemand",
+    "position": "G",
+    "team": "Toronto Tempo",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627700.png"
+  },
+  {
+    "id": "toronto-tempo-ornella-bankole",
+    "firstName": "Ornella",
+    "lastName": "Bankole",
+    "fullName": "Ornella Bankole",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643706.png"
+  },
+  {
+    "id": "toronto-tempo-kamila-borkowska",
+    "firstName": "Kamila",
+    "lastName": "Borkowska",
+    "fullName": "Kamila Borkowska",
+    "position": "C",
+    "team": "Toronto Tempo",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631137.png"
+  },
+  {
+    "id": "toronto-tempo-maria-conde",
+    "firstName": "María",
+    "lastName": "Conde",
+    "fullName": "María Conde",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629576.png"
+  },
+  {
+    "id": "toronto-tempo-temi-fagbenle",
+    "firstName": "Temi",
+    "lastName": "Fagbenle",
+    "fullName": "Temi Fagbenle",
+    "position": "C",
+    "team": "Toronto Tempo",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627701.png"
+  },
+  {
+    "id": "toronto-tempo-maria-gakdeng",
+    "firstName": "Maria",
+    "lastName": "Gakdeng",
+    "fullName": "Maria Gakdeng",
+    "position": "F/C",
+    "team": "Toronto Tempo",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642832.png"
+  },
+  {
+    "id": "toronto-tempo-zaay-green",
+    "firstName": "Zaay",
+    "lastName": "Green",
+    "fullName": "Zaay Green",
+    "position": "G",
+    "team": "Toronto Tempo",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642791.png"
+  },
+  {
+    "id": "toronto-tempo-isabelle-harrison",
+    "firstName": "Isabelle",
+    "lastName": "Harrison",
+    "fullName": "Isabelle Harrison",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204330.png"
+  },
+  {
+    "id": "toronto-tempo-laura-juskaite",
+    "firstName": "Laura",
+    "lastName": "Juškaitė",
+    "fullName": "Laura Juškaitė",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643420.png"
+  },
+  {
+    "id": "toronto-tempo-teonni-key",
+    "firstName": "Teonni",
+    "lastName": "Key",
+    "fullName": "Teonni Key",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643457.png"
+  },
+  {
+    "id": "toronto-tempo-marina-mabrey",
+    "firstName": "Marina",
+    "lastName": "Mabrey",
+    "fullName": "Marina Mabrey",
+    "position": "G",
+    "team": "Toronto Tempo",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629497.png"
+  },
+  {
+    "id": "toronto-tempo-aneesah-morrow",
+    "firstName": "Aneesah",
+    "lastName": "Morrow",
+    "fullName": "Aneesah Morrow",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642800.png"
+  },
+  {
+    "id": "toronto-tempo-kia-nurse",
+    "firstName": "Kia",
+    "lastName": "Nurse",
+    "fullName": "Kia Nurse",
+    "position": "G",
+    "team": "Toronto Tempo",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628915.png"
+  },
+  {
+    "id": "toronto-tempo-kiki-rice",
+    "firstName": "Kiki",
+    "lastName": "Rice",
+    "fullName": "Kiki Rice",
+    "position": "G",
+    "team": "Toronto Tempo",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643445.png"
+  },
+  {
+    "id": "toronto-tempo-nyara-sabally",
+    "firstName": "Nyara",
+    "lastName": "Sabally",
+    "fullName": "Nyara Sabally",
+    "position": "F",
+    "team": "Toronto Tempo",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631055.png"
+  },
+  {
+    "id": "toronto-tempo-brittney-sykes",
+    "firstName": "Brittney",
+    "lastName": "Sykes",
+    "fullName": "Brittney Sykes",
+    "position": "G",
+    "team": "Toronto Tempo",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628279.png"
+  },
+  {
+    "id": "washington-mystics-georgia-amoore",
+    "firstName": "Georgia",
+    "lastName": "Amoore",
+    "fullName": "Georgia Amoore",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642781.png"
+  },
+  {
+    "id": "washington-mystics-shakira-austin",
+    "firstName": "Shakira",
+    "lastName": "Austin",
+    "fullName": "Shakira Austin",
+    "position": "C",
+    "team": "Washington Mystics",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631022.png"
+  },
+  {
+    "id": "washington-mystics-lauren-betts",
+    "firstName": "Lauren",
+    "lastName": "Betts",
+    "fullName": "Lauren Betts",
+    "position": "C",
+    "team": "Washington Mystics",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643427.png"
+  },
+  {
+    "id": "washington-mystics-sonia-citron",
+    "firstName": "Sonia",
+    "lastName": "Citron",
+    "fullName": "Sonia Citron",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642785.png"
+  },
+  {
+    "id": "washington-mystics-angela-dugalic",
+    "firstName": "Angela",
+    "lastName": "Dugalić",
+    "fullName": "Angela Dugalić",
+    "position": "F",
+    "team": "Washington Mystics",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643455.png"
+  },
+  {
+    "id": "washington-mystics-alicia-florez",
+    "firstName": "Alicia",
+    "lastName": "Flórez",
+    "fullName": "Alicia Flórez",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643644.png"
+  },
+  {
+    "id": "washington-mystics-rori-harmon",
+    "firstName": "Rori",
+    "lastName": "Harmon",
+    "fullName": "Rori Harmon",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643450.png"
+  },
+  {
+    "id": "washington-mystics-kiki-iriafen",
+    "firstName": "Kiki",
+    "lastName": "Iriafen",
+    "fullName": "Kiki Iriafen",
+    "position": "F",
+    "team": "Washington Mystics",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642792.png"
+  },
+  {
+    "id": "washington-mystics-betnijah-laney-hamilton",
+    "firstName": "Betnijah",
+    "lastName": "Laney-Hamilton",
+    "fullName": "Betnijah Laney-Hamilton",
+    "position": "G/F",
+    "team": "Washington Mystics",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204335.png"
+  },
+  {
+    "id": "washington-mystics-lucy-olsen",
+    "firstName": "Lucy",
+    "lastName": "Olsen",
+    "fullName": "Lucy Olsen",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642802.png"
+  },
+  {
+    "id": "washington-mystics-michaela-onyenwere",
+    "firstName": "Michaela",
+    "lastName": "Onyenwere",
+    "fullName": "Michaela Onyenwere",
+    "position": "F",
+    "team": "Washington Mystics",
+    "age": 27,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630446.png"
+  },
+  {
+    "id": "washington-mystics-darianna-littlepage-buggs",
+    "firstName": "Darianna",
+    "lastName": "Littlepage-Buggs",
+    "fullName": "Darianna Littlepage-Buggs",
+    "position": "G/F",
+    "team": "Washington Mystics",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643440.png"
+  },
+  {
+    "id": "washington-mystics-cotie-mcmahon",
+    "firstName": "Cotie",
+    "lastName": "McMahon",
+    "fullName": "Cotie McMahon",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643430.png"
+  },
+  {
+    "id": "washington-mystics-cassandre-prosper",
+    "firstName": "Cassandre",
+    "lastName": "Prosper",
+    "fullName": "Cassandre Prosper",
+    "position": "G",
+    "team": "Washington Mystics",
+    "age": 21,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643467.png"
+  },
+  {
+    "id": "dallas-wings-paige-bueckers",
+    "firstName": "Paige",
+    "lastName": "Bueckers",
+    "fullName": "Paige Bueckers",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642784.png"
+  },
+  {
+    "id": "dallas-wings-alysha-clark",
+    "firstName": "Alysha",
+    "lastName": "Clark",
+    "fullName": "Alysha Clark",
+    "position": "F",
+    "team": "Dallas Wings",
+    "age": 39,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/202252.png"
+  },
+  {
+    "id": "dallas-wings-azzi-fudd",
+    "firstName": "Azzi",
+    "lastName": "Fudd",
+    "fullName": "Azzi Fudd",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643425.png"
+  },
+  {
+    "id": "dallas-wings-aziaha-james",
+    "firstName": "Aziaha",
+    "lastName": "James",
+    "fullName": "Aziaha James",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642793.png"
+  },
+  {
+    "id": "dallas-wings-awak-kuier",
+    "firstName": "Awak",
+    "lastName": "Kuier",
+    "fullName": "Awak Kuier",
+    "position": "F",
+    "team": "Dallas Wings",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630386.png"
+  },
+  {
+    "id": "dallas-wings-kitija-laksa",
+    "firstName": "Kitija",
+    "lastName": "Laksa",
+    "fullName": "Kitija Laksa",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629490.png"
+  },
+  {
+    "id": "dallas-wings-li-yueru",
+    "firstName": "Li",
+    "lastName": "Yueru",
+    "fullName": "Li Yueru",
+    "position": "C",
+    "team": "Dallas Wings",
+    "age": 27,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629574.png"
+  },
+  {
+    "id": "dallas-wings-arike-ogunbowale",
+    "firstName": "Arike",
+    "lastName": "Ogunbowale",
+    "fullName": "Arike Ogunbowale",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629481.png"
+  },
+  {
+    "id": "dallas-wings-jessica-shepard",
+    "firstName": "Jessica",
+    "lastName": "Shepard",
+    "fullName": "Jessica Shepard",
+    "position": "F",
+    "team": "Dallas Wings",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629491.png"
+  },
+  {
+    "id": "dallas-wings-maddy-siegrist",
+    "firstName": "Maddy",
+    "lastName": "Siegrist",
+    "fullName": "Maddy Siegrist",
+    "position": "F",
+    "team": "Dallas Wings",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641652.png"
+  },
+  {
+    "id": "dallas-wings-odyssey-sims",
+    "firstName": "Odyssey",
+    "lastName": "Sims",
+    "fullName": "Odyssey Sims",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203824.png"
+  },
+  {
+    "id": "dallas-wings-alanna-smith",
+    "firstName": "Alanna",
+    "lastName": "Smith",
+    "fullName": "Alanna Smith",
+    "position": "F",
+    "team": "Dallas Wings",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629501.png"
+  },
+  {
+    "id": "dallas-wings-costanza-verona",
+    "firstName": "Costanza",
+    "lastName": "Verona",
+    "fullName": "Costanza Verona",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 27,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643424.png"
+  },
+  {
+    "id": "dallas-wings-christyn-williams",
+    "firstName": "Christyn",
+    "lastName": "Williams",
+    "fullName": "Christyn Williams",
+    "position": "G",
+    "team": "Dallas Wings",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631090.png"
+  },
+  {
+    "id": "dallas-wings-haley-jones",
+    "firstName": "Haley",
+    "lastName": "Jones",
+    "fullName": "Haley Jones",
+    "position": "F/G",
+    "team": "Dallas Wings",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641650.png"
+  },
+  {
+    "id": "golden-state-valkyries-laeticia-amihere",
+    "firstName": "Laeticia",
+    "lastName": "Amihere",
+    "fullName": "Laeticia Amihere",
+    "position": "F",
+    "team": "Golden State Valkyries",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641656.png"
+  },
+  {
+    "id": "golden-state-valkyries-aminata-gueye",
+    "firstName": "Aminata",
+    "lastName": "Gueye",
+    "fullName": "Aminata Gueye",
+    "position": "C",
+    "team": "Golden State Valkyries",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643832.png"
+  },
+  {
+    "id": "golden-state-valkyries-veronica-burton",
+    "firstName": "Veronica",
+    "lastName": "Burton",
+    "fullName": "Veronica Burton",
+    "position": "G",
+    "team": "Golden State Valkyries",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631007.png"
+  },
+  {
+    "id": "golden-state-valkyries-kaila-charles",
+    "firstName": "Kaila",
+    "lastName": "Charles",
+    "fullName": "Kaila Charles",
+    "position": "G/F",
+    "team": "Golden State Valkyries",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630097.png"
+  },
+  {
+    "id": "golden-state-valkyries-kaitlyn-chen",
+    "firstName": "Kaitlyn",
+    "lastName": "Chen",
+    "fullName": "Kaitlyn Chen",
+    "position": "G",
+    "team": "Golden State Valkyries",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642822.png"
+  },
+  {
+    "id": "golden-state-valkyries-tiffany-hayes",
+    "firstName": "Tiffany",
+    "lastName": "Hayes",
+    "fullName": "Tiffany Hayes",
+    "position": "G",
+    "team": "Golden State Valkyries",
+    "age": 37,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203026.png"
+  },
+  {
+    "id": "golden-state-valkyries-juste-jocyte",
+    "firstName": "Justė",
+    "lastName": "Jocytė",
+    "fullName": "Justė Jocytė",
+    "position": "G/F",
+    "team": "Golden State Valkyries",
+    "age": 20,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642794.png"
+  },
+  {
+    "id": "golden-state-valkyries-ashten-prechtel",
+    "firstName": "Ashten",
+    "lastName": "Prechtel",
+    "fullName": "Ashten Prechtel",
+    "position": "F",
+    "team": "Golden State Valkyries",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641695.png"
+  },
+  {
+    "id": "golden-state-valkyries-iliana-rupert",
+    "firstName": "Iliana",
+    "lastName": "Rupert",
+    "fullName": "Iliana Rupert",
+    "position": "C",
+    "team": "Golden State Valkyries",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630387.png"
+  },
+  {
+    "id": "golden-state-valkyries-janelle-salaun",
+    "firstName": "Janelle",
+    "lastName": "Salaün",
+    "fullName": "Janelle Salaün",
+    "position": "F",
+    "team": "Golden State Valkyries",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642767.png"
+  },
+  {
+    "id": "golden-state-valkyries-miela-sowah",
+    "firstName": "Miela",
+    "lastName": "Sowah",
+    "fullName": "Miela Sowah",
+    "position": "G",
+    "team": "Golden State Valkyries",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631039.png"
+  },
+  {
+    "id": "golden-state-valkyries-kiah-stokes",
+    "firstName": "Kiah",
+    "lastName": "Stokes",
+    "fullName": "Kiah Stokes",
+    "position": "C",
+    "team": "Golden State Valkyries",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204329.png"
+  },
+  {
+    "id": "golden-state-valkyries-kayla-thornton",
+    "firstName": "Kayla",
+    "lastName": "Thornton",
+    "fullName": "Kayla Thornton",
+    "position": "F",
+    "team": "Golden State Valkyries",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203866.png"
+  },
+  {
+    "id": "golden-state-valkyries-gabby-williams",
+    "firstName": "Gabby",
+    "lastName": "Williams",
+    "fullName": "Gabby Williams",
+    "position": "F",
+    "team": "Golden State Valkyries",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628931.png"
+  },
+  {
+    "id": "golden-state-valkyries-cecilia-zandalasini",
+    "firstName": "Cecilia",
+    "lastName": "Zandalasini",
+    "fullName": "Cecilia Zandalasini",
+    "position": "F",
+    "team": "Golden State Valkyries",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628508.png"
+  },
+  {
+    "id": "las-vegas-aces-janiah-barker",
+    "firstName": "Janiah",
+    "lastName": "Barker",
+    "fullName": "Janiah Barker",
+    "position": "F",
+    "team": "Las Vegas Aces",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643434.png"
+  },
+  {
+    "id": "las-vegas-aces-kierstan-bell",
+    "firstName": "Kierstan",
+    "lastName": "Bell",
+    "fullName": "Kierstan Bell",
+    "position": "F",
+    "team": "Las Vegas Aces",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631006.png"
+  },
+  {
+    "id": "las-vegas-aces-kalani-brown",
+    "firstName": "Kalani",
+    "lastName": "Brown",
+    "fullName": "Kalani Brown",
+    "position": "C",
+    "team": "Las Vegas Aces",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629480.png"
+  },
+  {
+    "id": "las-vegas-aces-dana-evans",
+    "firstName": "Dana",
+    "lastName": "Evans",
+    "fullName": "Dana Evans",
+    "position": "G",
+    "team": "Las Vegas Aces",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630389.png"
+  },
+  {
+    "id": "las-vegas-aces-chelsea-gray",
+    "firstName": "Chelsea",
+    "lastName": "Gray",
+    "fullName": "Chelsea Gray",
+    "position": "G",
+    "team": "Las Vegas Aces",
+    "age": 33,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203833.png"
+  },
+  {
+    "id": "las-vegas-aces-ta-niya-latson",
+    "firstName": "Ta'Niya",
+    "lastName": "Latson",
+    "fullName": "Ta'Niya Latson",
+    "position": "G",
+    "team": "Las Vegas Aces",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643444.png"
+  },
+  {
+    "id": "las-vegas-aces-jewell-loyd",
+    "firstName": "Jewell",
+    "lastName": "Loyd",
+    "fullName": "Jewell Loyd",
+    "position": "G",
+    "team": "Las Vegas Aces",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204319.png"
+  },
+  {
+    "id": "las-vegas-aces-cheyenne-parker-tyus",
+    "firstName": "Cheyenne",
+    "lastName": "Parker-Tyus",
+    "fullName": "Cheyenne Parker-Tyus",
+    "position": "F",
+    "team": "Las Vegas Aces",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204323.png"
+  },
+  {
+    "id": "las-vegas-aces-justine-pissott",
+    "firstName": "Justine",
+    "lastName": "Pissott",
+    "fullName": "Justine Pissott",
+    "position": "G/F",
+    "team": "Las Vegas Aces",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643495.png"
+  },
+  {
+    "id": "las-vegas-aces-nalyssa-smith",
+    "firstName": "NaLyssa",
+    "lastName": "Smith",
+    "fullName": "NaLyssa Smith",
+    "position": "F",
+    "team": "Las Vegas Aces",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631019.png"
+  },
+  {
+    "id": "las-vegas-aces-stephanie-talbot",
+    "firstName": "Stephanie",
+    "lastName": "Talbot",
+    "fullName": "Stephanie Talbot",
+    "position": "F",
+    "team": "Las Vegas Aces",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203855.png"
+  },
+  {
+    "id": "las-vegas-aces-brianna-turner",
+    "firstName": "Brianna",
+    "lastName": "Turner",
+    "fullName": "Brianna Turner",
+    "position": "F/C",
+    "team": "Las Vegas Aces",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629488.png"
+  },
+  {
+    "id": "las-vegas-aces-a-ja-wilson",
+    "firstName": "A'ja",
+    "lastName": "Wilson",
+    "fullName": "A'ja Wilson",
+    "position": "C",
+    "team": "Las Vegas Aces",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628932.png"
+  },
+  {
+    "id": "las-vegas-aces-mai-yamamoto",
+    "firstName": "Mai",
+    "lastName": "Yamamoto",
+    "fullName": "Mai Yamamoto",
+    "position": "G",
+    "team": "Las Vegas Aces",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642769.png"
+  },
+  {
+    "id": "las-vegas-aces-jackie-young",
+    "firstName": "Jackie",
+    "lastName": "Young",
+    "fullName": "Jackie Young",
+    "position": "G",
+    "team": "Las Vegas Aces",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629498.png"
+  },
+  {
+    "id": "los-angeles-sparks-monique-akoa-makani",
+    "firstName": "Monique",
+    "lastName": "Akoa Makani",
+    "fullName": "Monique Akoa Makani",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642777.png"
+  },
+  {
+    "id": "los-angeles-sparks-ariel-atkins",
+    "firstName": "Ariel",
+    "lastName": "Atkins",
+    "fullName": "Ariel Atkins",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628878.png"
+  },
+  {
+    "id": "los-angeles-sparks-cameron-brink",
+    "firstName": "Cameron",
+    "lastName": "Brink",
+    "fullName": "Cameron Brink",
+    "position": "F",
+    "team": "Los Angeles Sparks",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642287.png"
+  },
+  {
+    "id": "los-angeles-sparks-rae-burrell",
+    "firstName": "Rae",
+    "lastName": "Burrell",
+    "fullName": "Rae Burrell",
+    "position": "G/F",
+    "team": "Los Angeles Sparks",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630996.png"
+  },
+  {
+    "id": "los-angeles-sparks-emma-cannon",
+    "firstName": "Emma",
+    "lastName": "Cannon",
+    "fullName": "Emma Cannon",
+    "position": "F",
+    "team": "Los Angeles Sparks",
+    "age": 37,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628242.png"
+  },
+  {
+    "id": "los-angeles-sparks-chance-gray",
+    "firstName": "Chance",
+    "lastName": "Gray",
+    "fullName": "Chance Gray",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643462.png"
+  },
+  {
+    "id": "los-angeles-sparks-dearica-hamby",
+    "firstName": "Dearica",
+    "lastName": "Hamby",
+    "fullName": "Dearica Hamby",
+    "position": "F",
+    "team": "Los Angeles Sparks",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204324.png"
+  },
+  {
+    "id": "los-angeles-sparks-tonie-morgan",
+    "firstName": "Tonie",
+    "lastName": "Morgan",
+    "fullName": "Tonie Morgan",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643439.png"
+  },
+  {
+    "id": "los-angeles-sparks-ndjakalenga-mwenentanda",
+    "firstName": "Ndjakalenga",
+    "lastName": "Mwenentanda",
+    "fullName": "Ndjakalenga Mwenentanda",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643479.png"
+  },
+  {
+    "id": "los-angeles-sparks-aaliyah-nye",
+    "firstName": "Aaliyah",
+    "lastName": "Nye",
+    "fullName": "Aaliyah Nye",
+    "position": "G/F",
+    "team": "Los Angeles Sparks",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642801.png"
+  },
+  {
+    "id": "los-angeles-sparks-nneka-ogwumike",
+    "firstName": "Nneka",
+    "lastName": "Ogwumike",
+    "fullName": "Nneka Ogwumike",
+    "position": "F",
+    "team": "Los Angeles Sparks",
+    "age": 36,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203014.png"
+  },
+  {
+    "id": "los-angeles-sparks-ji-hyun-park",
+    "firstName": "Ji-hyun",
+    "lastName": "Park",
+    "fullName": "Ji-hyun Park",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630148.png"
+  },
+  {
+    "id": "los-angeles-sparks-erica-wheeler",
+    "firstName": "Erica",
+    "lastName": "Wheeler",
+    "fullName": "Erica Wheeler",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 35,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204365.png"
+  },
+  {
+    "id": "los-angeles-sparks-shyanne-sellers",
+    "firstName": "Shyanne",
+    "lastName": "Sellers",
+    "fullName": "Shyanne Sellers",
+    "position": "G",
+    "team": "Los Angeles Sparks",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642811.png"
+  },
+  {
+    "id": "minnesota-lynx-chloe-bibby",
+    "firstName": "Chloe",
+    "lastName": "Bibby",
+    "fullName": "Chloe Bibby",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631064.png"
+  },
+  {
+    "id": "minnesota-lynx-nia-brodie",
+    "firstName": "Nia",
+    "lastName": "Brodie",
+    "fullName": "Nia Brodie",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628269.png"
+  },
+  {
+    "id": "minnesota-lynx-elena-buenavida",
+    "firstName": "Elena",
+    "lastName": "Buenavida",
+    "fullName": "Elena Buenavida",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643825.png"
+  },
+  {
+    "id": "minnesota-lynx-maya-caldwell",
+    "firstName": "Maya",
+    "lastName": "Caldwell",
+    "fullName": "Maya Caldwell",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 27,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630471.png"
+  },
+  {
+    "id": "minnesota-lynx-emma-cechova",
+    "firstName": "Emma",
+    "lastName": "Čechová",
+    "fullName": "Emma Čechová",
+    "position": "C",
+    "team": "Minnesota Lynx",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643488.png"
+  },
+  {
+    "id": "minnesota-lynx-napheesa-collier",
+    "firstName": "Napheesa",
+    "lastName": "Collier",
+    "fullName": "Napheesa Collier",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629483.png"
+  },
+  {
+    "id": "minnesota-lynx-antonia-delaere",
+    "firstName": "Antonia",
+    "lastName": "Delaere",
+    "fullName": "Antonia Delaere",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643489.png"
+  },
+  {
+    "id": "minnesota-lynx-natasha-howard",
+    "firstName": "Natasha",
+    "lastName": "Howard",
+    "fullName": "Natasha Howard",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 35,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203827.png"
+  },
+  {
+    "id": "minnesota-lynx-dorka-juhasz",
+    "firstName": "Dorka",
+    "lastName": "Juhász",
+    "fullName": "Dorka Juhász",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641657.png"
+  },
+  {
+    "id": "minnesota-lynx-liatu-king",
+    "firstName": "Liatu",
+    "lastName": "King",
+    "fullName": "Liatu King",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642820.png"
+  },
+  {
+    "id": "minnesota-lynx-anastasiia-olairi-kosu",
+    "firstName": "Anastasiia Olairi",
+    "lastName": "Kosu",
+    "fullName": "Anastasiia Olairi Kosu",
+    "position": "F",
+    "team": "Minnesota Lynx",
+    "age": 21,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642797.png"
+  },
+  {
+    "id": "minnesota-lynx-kayla-mcbride",
+    "firstName": "Kayla",
+    "lastName": "McBride",
+    "fullName": "Kayla McBride",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203825.png"
+  },
+  {
+    "id": "minnesota-lynx-aari-mcdonald",
+    "firstName": "Aari",
+    "lastName": "McDonald",
+    "fullName": "Aari McDonald",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630462.png"
+  },
+  {
+    "id": "minnesota-lynx-olivia-miles",
+    "firstName": "Olivia",
+    "lastName": "Miles",
+    "fullName": "Olivia Miles",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643426.png"
+  },
+  {
+    "id": "minnesota-lynx-courtney-williams",
+    "firstName": "Courtney",
+    "lastName": "Williams",
+    "fullName": "Courtney Williams",
+    "position": "G",
+    "team": "Minnesota Lynx",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627675.png"
+  },
+  {
+    "id": "phoenix-mercury-valeriane-ayayi",
+    "firstName": "Valériane",
+    "lastName": "Ayayi",
+    "fullName": "Valériane Ayayi",
+    "position": "F",
+    "team": "Phoenix Mercury",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204468.png"
+  },
+  {
+    "id": "phoenix-mercury-noemie-brochant",
+    "firstName": "Noémie",
+    "lastName": "Brochant",
+    "fullName": "Noémie Brochant",
+    "position": "F/G",
+    "team": "Phoenix Mercury",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643493.png"
+  },
+  {
+    "id": "phoenix-mercury-shay-ciezki",
+    "firstName": "Shay",
+    "lastName": "Ciezki",
+    "fullName": "Shay Ciezki",
+    "position": "G",
+    "team": "Phoenix Mercury",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643470.png"
+  },
+  {
+    "id": "phoenix-mercury-kahleah-copper",
+    "firstName": "Kahleah",
+    "lastName": "Copper",
+    "fullName": "Kahleah Copper",
+    "position": "G/F",
+    "team": "Phoenix Mercury",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627674.png"
+  },
+  {
+    "id": "phoenix-mercury-kara-dunn",
+    "firstName": "Kara",
+    "lastName": "Dunn",
+    "fullName": "Kara Dunn",
+    "position": "G",
+    "team": "Phoenix Mercury",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643454.png"
+  },
+  {
+    "id": "phoenix-mercury-lexi-held",
+    "firstName": "Lexi",
+    "lastName": "Held",
+    "fullName": "Lexi Held",
+    "position": "G",
+    "team": "Phoenix Mercury",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631118.png"
+  },
+  {
+    "id": "phoenix-mercury-kyara-linskens",
+    "firstName": "Kyara",
+    "lastName": "Linskens",
+    "fullName": "Kyara Linskens",
+    "position": "C",
+    "team": "Phoenix Mercury",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642768.png"
+  },
+  {
+    "id": "phoenix-mercury-natasha-mack",
+    "firstName": "Natasha",
+    "lastName": "Mack",
+    "fullName": "Natasha Mack",
+    "position": "F/C",
+    "team": "Phoenix Mercury",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630442.png"
+  },
+  {
+    "id": "phoenix-mercury-kelsey-plum",
+    "firstName": "Kelsey",
+    "lastName": "Plum",
+    "fullName": "Kelsey Plum",
+    "position": "G",
+    "team": "Phoenix Mercury",
+    "age": 32,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628276.png"
+  },
+  {
+    "id": "phoenix-mercury-saylor-poffenbarger",
+    "firstName": "Saylor",
+    "lastName": "Poffenbarger",
+    "fullName": "Saylor Poffenbarger",
+    "position": "F",
+    "team": "Phoenix Mercury",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643458.png"
+  },
+  {
+    "id": "phoenix-mercury-marta-suarez",
+    "firstName": "Marta",
+    "lastName": "Suárez",
+    "fullName": "Marta Suárez",
+    "position": "F",
+    "team": "Phoenix Mercury",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643438.png"
+  },
+  {
+    "id": "phoenix-mercury-alyssa-thomas",
+    "firstName": "Alyssa",
+    "lastName": "Thomas",
+    "fullName": "Alyssa Thomas",
+    "position": "F",
+    "team": "Phoenix Mercury",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203826.png"
+  },
+  {
+    "id": "phoenix-mercury-maddy-westbeld",
+    "firstName": "Maddy",
+    "lastName": "Westbeld",
+    "fullName": "Maddy Westbeld",
+    "position": "F",
+    "team": "Phoenix Mercury",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642818.png"
+  },
+  {
+    "id": "phoenix-mercury-sami-whitcomb",
+    "firstName": "Sami",
+    "lastName": "Whitcomb",
+    "fullName": "Sami Whitcomb",
+    "position": "G",
+    "team": "Phoenix Mercury",
+    "age": 38,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628244.png"
+  },
+  {
+    "id": "phoenix-mercury-jovana-nogic",
+    "firstName": "Jovana",
+    "lastName": "Nogić",
+    "fullName": "Jovana Nogić",
+    "position": "G",
+    "team": "Phoenix Mercury",
+    "age": 28,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643505.png"
+  },
+  {
+    "id": "portland-fire-sarah-ashlee-barker",
+    "firstName": "Sarah Ashlee",
+    "lastName": "Barker",
+    "fullName": "Sarah Ashlee Barker",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642782.png"
+  },
+  {
+    "id": "portland-fire-frieda-buhner",
+    "firstName": "Frieda",
+    "lastName": "Bühner",
+    "fullName": "Frieda Bühner",
+    "position": "F/C",
+    "team": "Portland Fire",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643494.png"
+  },
+  {
+    "id": "portland-fire-bridget-carleton",
+    "firstName": "Bridget",
+    "lastName": "Carleton",
+    "fullName": "Bridget Carleton",
+    "position": "F",
+    "team": "Portland Fire",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629524.png"
+  },
+  {
+    "id": "portland-fire-megan-dileo",
+    "firstName": "Megan",
+    "lastName": "DiLeo",
+    "fullName": "Megan DiLeo",
+    "position": "C",
+    "team": "Portland Fire",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629484.png"
+  },
+  {
+    "id": "portland-fire-emily-engstler",
+    "firstName": "Emily",
+    "lastName": "Engstler",
+    "fullName": "Emily Engstler",
+    "position": "F",
+    "team": "Portland Fire",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631083.png"
+  },
+  {
+    "id": "portland-fire-sania-feagin",
+    "firstName": "Sania",
+    "lastName": "Feagin",
+    "fullName": "Sania Feagin",
+    "position": "F",
+    "team": "Portland Fire",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642790.png"
+  },
+  {
+    "id": "portland-fire-luisa-geiselsoder",
+    "firstName": "Luisa",
+    "lastName": "Geiselsöder",
+    "fullName": "Luisa Geiselsöder",
+    "position": "C",
+    "team": "Portland Fire",
+    "age": 26,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630143.png"
+  },
+  {
+    "id": "portland-fire-jordan-harrison",
+    "firstName": "Jordan",
+    "lastName": "Harrison",
+    "fullName": "Jordan Harrison",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643527.png"
+  },
+  {
+    "id": "portland-fire-carla-leite",
+    "firstName": "Carla",
+    "lastName": "Leite",
+    "fullName": "Carla Leite",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642304.png"
+  },
+  {
+    "id": "portland-fire-teja-oblak",
+    "firstName": "Teja",
+    "lastName": "Oblak",
+    "fullName": "Teja Oblak",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 35,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643506.png"
+  },
+  {
+    "id": "portland-fire-charisma-osborne",
+    "firstName": "Charisma",
+    "lastName": "Osborne",
+    "fullName": "Charisma Osborne",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642294.png"
+  },
+  {
+    "id": "portland-fire-amy-okonkwo",
+    "firstName": "Amy",
+    "lastName": "Okonkwo",
+    "fullName": "Amy Okonkwo",
+    "position": "F",
+    "team": "Portland Fire",
+    "age": 30,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629539.png"
+  },
+  {
+    "id": "portland-fire-nyadiew-puoch",
+    "firstName": "Nyadiew",
+    "lastName": "Puoch",
+    "fullName": "Nyadiew Puoch",
+    "position": "F",
+    "team": "Portland Fire",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642296.png"
+  },
+  {
+    "id": "portland-fire-karlie-samuelson",
+    "firstName": "Karlie",
+    "lastName": "Samuelson",
+    "fullName": "Karlie Samuelson",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 31,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628317.png"
+  },
+  {
+    "id": "portland-fire-serah-williams",
+    "firstName": "Serah",
+    "lastName": "Williams",
+    "fullName": "Serah Williams",
+    "position": "F",
+    "team": "Portland Fire",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643436.png"
+  },
+  {
+    "id": "portland-fire-holly-winterburn",
+    "firstName": "Holly",
+    "lastName": "Winterburn",
+    "fullName": "Holly Winterburn",
+    "position": "G",
+    "team": "Portland Fire",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641683.png"
+  },
+  {
+    "id": "seattle-storm-zia-cooke",
+    "firstName": "Zia",
+    "lastName": "Cooke",
+    "fullName": "Zia Cooke",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641660.png"
+  },
+  {
+    "id": "seattle-storm-stefanie-dolson",
+    "firstName": "Stefanie",
+    "lastName": "Dolson",
+    "fullName": "Stefanie Dolson",
+    "position": "C",
+    "team": "Seattle Storm",
+    "age": 34,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203828.png"
+  },
+  {
+    "id": "seattle-storm-awa-fam",
+    "firstName": "Awa",
+    "lastName": "Fam",
+    "fullName": "Awa Fam",
+    "position": "C",
+    "team": "Seattle Storm",
+    "age": 20,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643443.png"
+  },
+  {
+    "id": "seattle-storm-natisha-hiedeman",
+    "firstName": "Natisha",
+    "lastName": "Hiedeman",
+    "fullName": "Natisha Hiedeman",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629567.png"
+  },
+  {
+    "id": "seattle-storm-mackenzie-holmes",
+    "firstName": "Mackenzie",
+    "lastName": "Holmes",
+    "fullName": "Mackenzie Holmes",
+    "position": "F",
+    "team": "Seattle Storm",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642307.png"
+  },
+  {
+    "id": "seattle-storm-jordan-horston",
+    "firstName": "Jordan",
+    "lastName": "Horston",
+    "fullName": "Jordan Horston",
+    "position": "F",
+    "team": "Seattle Storm",
+    "age": 25,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641651.png"
+  },
+  {
+    "id": "seattle-storm-flau-jae-johnson",
+    "firstName": "Flau'jae",
+    "lastName": "Johnson",
+    "fullName": "Flau'jae Johnson",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643428.png"
+  },
+  {
+    "id": "seattle-storm-ezi-magbegor",
+    "firstName": "Ezi",
+    "lastName": "Magbegor",
+    "fullName": "Ezi Magbegor",
+    "position": "F/C",
+    "team": "Seattle Storm",
+    "age": 27,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629496.png"
+  },
+  {
+    "id": "seattle-storm-taina-mair",
+    "firstName": "Taina",
+    "lastName": "Mair",
+    "fullName": "Taina Mair",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 22,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643473.png"
+  },
+  {
+    "id": "seattle-storm-dominique-malonga",
+    "firstName": "Dominique",
+    "lastName": "Malonga",
+    "fullName": "Dominique Malonga",
+    "position": "C",
+    "team": "Seattle Storm",
+    "age": 20,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642798.png"
+  },
+  {
+    "id": "seattle-storm-jade-melbourne",
+    "firstName": "Jade",
+    "lastName": "Melbourne",
+    "fullName": "Jade Melbourne",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631141.png"
+  },
+  {
+    "id": "seattle-storm-katie-lou-samuelson",
+    "firstName": "Katie Lou",
+    "lastName": "Samuelson",
+    "fullName": "Katie Lou Samuelson",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 29,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629478.png"
+  },
+  {
+    "id": "seattle-storm-jaylyn-sherrod",
+    "firstName": "Jaylyn",
+    "lastName": "Sherrod",
+    "fullName": "Jaylyn Sherrod",
+    "position": "G",
+    "team": "Seattle Storm",
+    "age": 24,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642320.png"
+  },
+  {
+    "id": "seattle-storm-taylor-thierry",
+    "firstName": "Taylor",
+    "lastName": "Thierry",
+    "fullName": "Taylor Thierry",
+    "position": "G/F",
+    "team": "Seattle Storm",
+    "age": 23,
+    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642814.png"
+  }
+]
