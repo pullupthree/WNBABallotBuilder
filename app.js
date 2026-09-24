@@ -34,7 +34,6 @@ const clearButton = document.querySelector("#clear-selection");
 const saveButton = document.querySelector("#save-selection");
 const resetButton = document.querySelector("#reset-ballot");
 const captureButton = document.querySelector("#capture-view");
-const downloadButton = document.querySelector("#download-capture");
 const exitCaptureButton = document.querySelector("#exit-capture");
 const slotTemplate = document.querySelector("#slot-template");
 const selectionCount = document.querySelector("#selection-count");
@@ -371,36 +370,16 @@ function enterCaptureMode() {
   document.body.classList.add("capture-mode");
   const smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   window.scrollTo({ top: 0, behavior: smooth ? "smooth" : "auto" });
+  
   exitCaptureButton.focus({ preventScroll: true });
 }
-function downloadPageAsPng() {
-    // Select the element you want to screenshot (document.body for the full visible page)
-    const element = document.body; 
 
-    html2canvas(element, { useCORS: true }).then(canvas => {
-        // Convert canvas data to a PNG URL
-        const dataUrl = canvas.toDataURL("image/png");
-
-        // Create a temporary link element to trigger the download
-        const downloadLink = document.createElement("a");
-        downloadLink.href = dataUrl;
-        downloadLink.download = "ballot.png"; // File name
-
-        // Trigger click and clean up
-        document.body.appendChild(downloadLink);
-        downloadLink.click();
-        document.body.removeChild(downloadLink);
-    }).catch(error => {
-        console.error("Oops, something went wrong!", error);
-    });
-}
 function exitCaptureMode() {
   document.body.classList.remove("capture-mode");
   captureButton.focus({ preventScroll: true });
 }
 
 captureButton.addEventListener("click", enterCaptureMode);
-downloadButton.addEventListener("click", downloadPageAsPng);
 exitCaptureButton.addEventListener("click", exitCaptureMode);
 
 document.addEventListener("keydown", (event) => {
