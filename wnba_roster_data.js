@@ -1,3 +1,4 @@
+//wnba roster database w/o player headshots
 // Generated from wnba_roster.json for direct file:// browser use.
 window.WNBA_ROSTER = [
   {
@@ -9,7 +10,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 39,
     "yearsPro": 16,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/201886.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-isobel-borlase",
@@ -20,7 +21,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642302.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-jordin-canada",
@@ -31,7 +32,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 31,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628886.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-allisha-gray",
@@ -42,7 +43,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 31,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628277.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-naz-hillmon",
@@ -53,7 +54,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631044.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-rhyne-howard",
@@ -64,7 +65,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631009.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-brionna-jones",
@@ -75,7 +76,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 30,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628280.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-sika-kone",
@@ -86,7 +87,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 24,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631021.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-indya-nivar",
@@ -97,7 +98,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643469.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-madina-okot",
@@ -108,7 +109,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643431.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-te-hina-paopao",
@@ -119,7 +120,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642804.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-angel-reese",
@@ -130,7 +131,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 24,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642291.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-matilde-villa",
@@ -141,7 +142,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 21,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642327.png"
+    "image": ""
   },
   {
     "id": "atlanta-dream-shatori-walker-kimbrough",
@@ -152,7 +153,7 @@ window.WNBA_ROSTER = [
     "team": "ATL",
     "age": 31,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628278.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-rachel-banham",
@@ -163,7 +164,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 33,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627671.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-kate-martin",
@@ -174,7 +175,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 26,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642324.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-kamilla-cardoso",
@@ -185,7 +186,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 25,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642289.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-dijonai-carrington",
@@ -196,7 +197,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 28,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630096.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-natasha-cloud",
@@ -207,7 +208,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 34,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204333.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-aicha-coulibaly",
@@ -218,7 +219,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642786.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-skylar-diggins",
@@ -229,7 +230,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 36,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203400.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-rickea-jackson",
@@ -240,7 +241,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 25,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642288.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-gabriela-jaquez",
@@ -251,7 +252,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643447.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-morgan-maly",
@@ -262,7 +263,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642835.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-jacy-sheldon",
@@ -273,7 +274,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 26,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642292.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-azura-stevens",
@@ -284,7 +285,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 30,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628922.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-sydney-taylor",
@@ -295,7 +296,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642321.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-courtney-vandersloot",
@@ -306,7 +307,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 37,
     "yearsPro": 14,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/202664.png"
+    "image": ""
   },
   {
     "id": "chicago-sky-elizabeth-williams",
@@ -317,7 +318,7 @@ window.WNBA_ROSTER = [
     "team": "CHI",
     "age": 33,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204322.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-nell-angloma",
@@ -328,7 +329,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 20,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643448.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-raegan-beers",
@@ -339,7 +340,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643441.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-kennedy-burke",
@@ -350,7 +351,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 29,
     "yearsPro": 6,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629568.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-aaliyah-edwards",
@@ -361,7 +362,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 24,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642290.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-brittney-griner",
@@ -372,7 +373,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 35,
     "yearsPro": 11,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203398.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-ashlon-jackson",
@@ -383,7 +384,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643437.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-gianna-kneepkens",
@@ -394,7 +395,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643429.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-leila-lacan",
@@ -405,7 +406,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 22,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642303.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-charlisse-leger-walker",
@@ -416,7 +417,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643449.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-diamond-miller",
@@ -427,7 +428,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 25,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641649.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-olivia-nelson-ododa",
@@ -438,7 +439,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 26,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631135.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-saniya-rivers",
@@ -449,7 +450,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642809.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-hailey-van-lith",
@@ -460,7 +461,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 25,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642817.png"
+    "image": ""
   },
   {
     "id": "connecticut-sun-rayah-marshall",
@@ -471,7 +472,7 @@ window.WNBA_ROSTER = [
     "team": "CON",
     "age": 22,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642796.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-monique-billings",
@@ -482,7 +483,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 30,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628881.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-aliyah-boston",
@@ -493,7 +494,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 24,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641648.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-caitlin-clark",
@@ -504,7 +505,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 24,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642286.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-sophie-cunningham",
@@ -515,7 +516,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 30,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629482.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-damiris-dantas",
@@ -526,7 +527,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 33,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203024.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-bree-hall",
@@ -537,7 +538,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642788.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-tyasha-harris",
@@ -548,7 +549,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 28,
     "yearsPro": 6,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630112.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-myisha-hines-allen",
@@ -559,7 +560,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 31,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628899.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-lexie-hull",
@@ -570,7 +571,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 27,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631086.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-raven-johnson",
@@ -581,7 +582,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643433.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-kelsey-mitchell",
@@ -592,7 +593,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 30,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628909.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-mercedes-russell",
@@ -603,7 +604,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 31,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628920.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-michelle-onyiah",
@@ -614,7 +615,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642803.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-makayla-timpson",
@@ -625,7 +626,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642815.png"
+    "image": ""
   },
   {
     "id": "indiana-fever-grace-vanslooten",
@@ -636,7 +637,7 @@ window.WNBA_ROSTER = [
     "team": "IND",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643453.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-rebecca-allen",
@@ -647,7 +648,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 33,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204296.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-pauline-astier",
@@ -658,7 +659,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631136.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-elizabeth-balogun",
@@ -669,7 +670,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 26,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641663.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-raquel-carrera",
@@ -680,7 +681,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630384.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-marine-fauthoux",
@@ -691,7 +692,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630469.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-leonie-fiebich",
@@ -702,7 +703,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 26,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630142.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-rebekah-gardner",
@@ -713,7 +714,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 36,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203822.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-sabrina-ionescu",
@@ -724,7 +725,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 28,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629477.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-marine-johannes",
@@ -735,7 +736,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 31,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629546.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-jonquel-jones",
@@ -746,7 +747,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 32,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627673.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-anneli-maley",
@@ -757,7 +758,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 28,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630993.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-satou-sabally",
@@ -768,7 +769,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 28,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630149.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-madison-scott",
@@ -779,7 +780,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642810.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-breanna-stewart",
@@ -790,7 +791,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 32,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627668.png"
+    "image": ""
   },
   {
     "id": "new-york-liberty-han-xu",
@@ -801,7 +802,7 @@ window.WNBA_ROSTER = [
     "team": "NYL",
     "age": 26,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629566.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-julie-allemand",
@@ -812,7 +813,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 30,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627700.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-ornella-bankole",
@@ -823,7 +824,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 28,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643706.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-kamila-borkowska",
@@ -834,7 +835,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631137.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-maria-conde",
@@ -845,7 +846,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 29,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629576.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-temi-fagbenle",
@@ -856,7 +857,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 34,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627701.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-maria-gakdeng",
@@ -867,7 +868,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642832.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-zaay-green",
@@ -878,7 +879,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 26,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642791.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-isabelle-harrison",
@@ -889,7 +890,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 32,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204330.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-laura-juskaite",
@@ -900,7 +901,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 28,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643420.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-teonni-key",
@@ -911,7 +912,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643457.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-marina-mabrey",
@@ -922,7 +923,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 30,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629497.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-aneesah-morrow",
@@ -933,7 +934,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642800.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-kia-nurse",
@@ -944,7 +945,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 30,
     "yearsPro": 6,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628915.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-kiki-rice",
@@ -955,7 +956,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643445.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-nyara-sabally",
@@ -966,7 +967,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 26,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631055.png"
+    "image": ""
   },
   {
     "id": "toronto-tempo-brittney-sykes",
@@ -977,7 +978,7 @@ window.WNBA_ROSTER = [
     "team": "TOR",
     "age": 32,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628279.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-georgia-amoore",
@@ -988,7 +989,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642781.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-shakira-austin",
@@ -999,7 +1000,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631022.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-lauren-betts",
@@ -1010,7 +1011,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643427.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-sonia-citron",
@@ -1021,7 +1022,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 22,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642785.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-angela-dugalic",
@@ -1032,7 +1033,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643455.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-alicia-florez",
@@ -1043,7 +1044,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643644.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-rori-harmon",
@@ -1054,7 +1055,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643450.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-kiki-iriafen",
@@ -1065,7 +1066,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642792.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-betnijah-laney-hamilton",
@@ -1076,7 +1077,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 32,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204335.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-lucy-olsen",
@@ -1087,7 +1088,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642802.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-michaela-onyenwere",
@@ -1098,7 +1099,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 27,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630446.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-darianna-littlepage-buggs",
@@ -1109,7 +1110,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643440.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-cotie-mcmahon",
@@ -1120,7 +1121,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643430.png"
+    "image": ""
   },
   {
     "id": "washington-mystics-cassandre-prosper",
@@ -1131,7 +1132,7 @@ window.WNBA_ROSTER = [
     "team": "WAS",
     "age": 21,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643467.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-paige-bueckers",
@@ -1142,7 +1143,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642784.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-alysha-clark",
@@ -1153,7 +1154,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 39,
     "yearsPro": 13,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/202252.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-azzi-fudd",
@@ -1164,7 +1165,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643425.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-aziaha-james",
@@ -1175,7 +1176,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642793.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-deja-kelly",
@@ -1186,7 +1187,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642795.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-awak-kuier",
@@ -1197,7 +1198,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 25,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630386.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-kitija-laksa",
@@ -1208,7 +1209,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 30,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629490.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-li-yueru",
@@ -1219,7 +1220,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 27,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629574.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-arike-ogunbowale",
@@ -1230,7 +1231,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 29,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629481.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-jessica-shepard",
@@ -1241,7 +1242,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 30,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629491.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-maddy-siegrist",
@@ -1252,7 +1253,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 26,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641652.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-odyssey-sims",
@@ -1263,7 +1264,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 34,
     "yearsPro": 12,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203824.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-alanna-smith",
@@ -1274,7 +1275,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 30,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629501.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-costanza-verona",
@@ -1285,7 +1286,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 27,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643424.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-christyn-williams",
@@ -1296,7 +1297,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 26,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631090.png"
+    "image": ""
   },
   {
     "id": "dallas-wings-haley-jones",
@@ -1307,7 +1308,7 @@ window.WNBA_ROSTER = [
     "team": "DAL",
     "age": 25,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641650.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-laeticia-amihere",
@@ -1318,7 +1319,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 25,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641656.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-aminata-gueye",
@@ -1329,7 +1330,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643832.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-veronica-burton",
@@ -1340,7 +1341,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631007.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-kaila-charles",
@@ -1351,7 +1352,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 28,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630097.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-kaitlyn-chen",
@@ -1362,7 +1363,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642822.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-tiffany-hayes",
@@ -1373,7 +1374,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 37,
     "yearsPro": 13,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203026.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-juste-jocyte",
@@ -1384,7 +1385,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 20,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642794.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-ashten-prechtel",
@@ -1395,7 +1396,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641695.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-iliana-rupert",
@@ -1406,7 +1407,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 25,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630387.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-janelle-salaun",
@@ -1417,7 +1418,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 25,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642767.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-miela-sowah",
@@ -1428,7 +1429,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 26,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631039.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-kiah-stokes",
@@ -1439,7 +1440,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 33,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204329.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-kayla-thornton",
@@ -1450,7 +1451,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 33,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203866.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-gabby-williams",
@@ -1461,7 +1462,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 30,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628931.png"
+    "image": ""
   },
   {
     "id": "golden-state-valkyries-cecilia-zandalasini",
@@ -1472,7 +1473,7 @@ window.WNBA_ROSTER = [
     "team": "GSV",
     "age": 30,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628508.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-janiah-barker",
@@ -1483,7 +1484,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643434.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-kierstan-bell",
@@ -1494,7 +1495,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631006.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-kalani-brown",
@@ -1505,7 +1506,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 29,
     "yearsPro": 6,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629480.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-dana-evans",
@@ -1516,7 +1517,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 28,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630389.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-chelsea-gray",
@@ -1527,7 +1528,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 33,
     "yearsPro": 11,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203833.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-ta-niya-latson",
@@ -1538,7 +1539,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643444.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-jewell-loyd",
@@ -1549,7 +1550,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 32,
     "yearsPro": 11,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204319.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-cheyenne-parker-tyus",
@@ -1560,7 +1561,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 34,
     "yearsPro": 11,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204323.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-justine-pissott",
@@ -1571,7 +1572,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643495.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-nalyssa-smith",
@@ -1582,7 +1583,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631019.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-stephanie-talbot",
@@ -1593,7 +1594,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 32,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203855.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-brianna-turner",
@@ -1604,7 +1605,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 30,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629488.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-a-ja-wilson",
@@ -1615,7 +1616,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 30,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628932.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-mai-yamamoto",
@@ -1626,7 +1627,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 26,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642769.png"
+    "image": ""
   },
   {
     "id": "las-vegas-aces-jackie-young",
@@ -1637,7 +1638,7 @@ window.WNBA_ROSTER = [
     "team": "LVA",
     "age": 29,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629498.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-monique-akoa-makani",
@@ -1648,7 +1649,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 25,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642777.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-ariel-atkins",
@@ -1659,7 +1660,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 30,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628878.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-cameron-brink",
@@ -1670,7 +1671,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 24,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642287.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-rae-burrell",
@@ -1681,7 +1682,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 26,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630996.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-emma-cannon",
@@ -1692,7 +1693,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 37,
     "yearsPro": 6,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628242.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-chance-gray",
@@ -1703,7 +1704,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643462.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-dearica-hamby",
@@ -1714,7 +1715,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 32,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204324.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-tonie-morgan",
@@ -1725,7 +1726,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643439.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-ndjakalenga-mwenentanda",
@@ -1736,7 +1737,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643479.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-aaliyah-nye",
@@ -1747,7 +1748,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642801.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-nneka-ogwumike",
@@ -1758,7 +1759,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 36,
     "yearsPro": 13,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203014.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-ji-hyun-park",
@@ -1769,7 +1770,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 26,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630148.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-erica-wheeler",
@@ -1780,7 +1781,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 35,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204365.png"
+    "image": ""
   },
   {
     "id": "los-angeles-sparks-shyanne-sellers",
@@ -1791,7 +1792,7 @@ window.WNBA_ROSTER = [
     "team": "LAS",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642811.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-chloe-bibby",
@@ -1802,7 +1803,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 28,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631064.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-nia-brodie",
@@ -1813,7 +1814,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 31,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628269.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-elena-buenavida",
@@ -1824,7 +1825,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643825.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-maya-caldwell",
@@ -1835,7 +1836,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 27,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630471.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-emma-cechova",
@@ -1846,7 +1847,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643488.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-napheesa-collier",
@@ -1857,7 +1858,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 29,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629483.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-antonia-delaere",
@@ -1867,7 +1868,7 @@ window.WNBA_ROSTER = [
     "position": "G",
     "team": "MIN",
     "age": 32,"yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643489.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-natasha-howard",
@@ -1878,7 +1879,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 35,
     "yearsPro": 12,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203827.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-dorka-juhasz",
@@ -1889,7 +1890,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 26,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641657.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-liatu-king",
@@ -1900,7 +1901,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642820.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-anastasiia-olairi-kosu",
@@ -1911,7 +1912,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 21,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642797.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-kayla-mcbride",
@@ -1922,7 +1923,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 34,
     "yearsPro": 12,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203825.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-aari-mcdonald",
@@ -1933,7 +1934,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 28,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630462.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-olivia-miles",
@@ -1944,7 +1945,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 23,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643426.png"
+    "image": ""
   },
   {
     "id": "minnesota-lynx-courtney-williams",
@@ -1955,7 +1956,7 @@ window.WNBA_ROSTER = [
     "team": "MIN",
     "age": 32,
     "yearsPro": 10,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627675.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-valeriane-ayayi",
@@ -1966,7 +1967,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 32,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/204468.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-noemie-brochant",
@@ -1977,7 +1978,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 26,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643493.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-shay-ciezki",
@@ -1988,7 +1989,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643470.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-kahleah-copper",
@@ -1999,7 +2000,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 32,
     "yearsPro": 9,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1627674.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-kara-dunn",
@@ -2010,7 +2011,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643454.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-lexi-held",
@@ -2021,7 +2022,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 26,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631118.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-kyara-linskens",
@@ -2032,7 +2033,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 29,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642768.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-natasha-mack",
@@ -2043,7 +2044,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 28,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630442.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-kelsey-plum",
@@ -2054,7 +2055,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 32,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628276.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-saylor-poffenbarger",
@@ -2065,7 +2066,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643458.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-marta-suarez",
@@ -2076,7 +2077,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 24,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643438.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-alyssa-thomas",
@@ -2087,7 +2088,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 34,
     "yearsPro": 12,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203826.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-maddy-westbeld",
@@ -2098,7 +2099,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 24,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642818.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-sami-whitcomb",
@@ -2109,7 +2110,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 38,
     "yearsPro": 8,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628244.png"
+    "image": ""
   },
   {
     "id": "phoenix-mercury-jovana-nogic",
@@ -2120,7 +2121,7 @@ window.WNBA_ROSTER = [
     "team": "PHX",
     "age": 28,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643505.png"
+    "image": ""
   },
   {
     "id": "portland-fire-sarah-ashlee-barker",
@@ -2131,7 +2132,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 25,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642782.png"
+    "image": ""
   },
   {
     "id": "portland-fire-frieda-buhner",
@@ -2142,7 +2143,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643494.png"
+    "image": ""
   },
   {
     "id": "portland-fire-bridget-carleton",
@@ -2153,7 +2154,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 29,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629524.png"
+    "image": ""
   },
   {
     "id": "portland-fire-megan-dileo",
@@ -2164,7 +2165,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 29,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629484.png"
+    "image": ""
   },
   {
     "id": "portland-fire-emily-engstler",
@@ -2175,7 +2176,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 26,
     "yearsPro": 4,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631083.png"
+    "image": ""
   },
   {
     "id": "portland-fire-sania-feagin",
@@ -2186,7 +2187,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642790.png"
+    "image": ""
   },
   {
     "id": "portland-fire-luisa-geiselsoder",
@@ -2197,7 +2198,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 26,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1630143.png"
+    "image": ""
   },
   {
     "id": "portland-fire-jordan-harrison",
@@ -2208,7 +2209,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643527.png"
+    "image": ""
   },
   {
     "id": "portland-fire-carla-leite",
@@ -2219,7 +2220,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 22,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642304.png"
+    "image": ""
   },
   {
     "id": "portland-fire-teja-oblak",
@@ -2230,7 +2231,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 35,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643506.png"
+    "image": ""
   },
   {
     "id": "portland-fire-charisma-osborne",
@@ -2241,7 +2242,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 25,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642294.png"
+    "image": ""
   },
   {
     "id": "portland-fire-amy-okonkwo",
@@ -2252,7 +2253,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 30,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629539.png"
+    "image": ""
   },
   {
     "id": "portland-fire-nyadiew-puoch",
@@ -2263,7 +2264,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642296.png"
+    "image": ""
   },
   {
     "id": "portland-fire-karlie-samuelson",
@@ -2274,7 +2275,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 31,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1628317.png"
+    "image": ""
   },
   {
     "id": "portland-fire-serah-williams",
@@ -2285,7 +2286,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643436.png"
+    "image": ""
   },
   {
     "id": "portland-fire-holly-winterburn",
@@ -2296,7 +2297,7 @@ window.WNBA_ROSTER = [
     "team": "POR",
     "age": 25,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641683.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-zia-cooke",
@@ -2307,7 +2308,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 25,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641660.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-stefanie-dolson",
@@ -2318,7 +2319,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 34,
     "yearsPro": 11,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/203828.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-awa-fam",
@@ -2329,7 +2330,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 20,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643443.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-natisha-hiedeman",
@@ -2340,7 +2341,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 29,
     "yearsPro": 7,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629567.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-mackenzie-holmes",
@@ -2351,7 +2352,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 25,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642307.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-jordan-horston",
@@ -2362,7 +2363,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 25,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1641651.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-flau-jae-johnson",
@@ -2373,7 +2374,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643428.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-ezi-magbegor",
@@ -2384,7 +2385,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 27,
     "yearsPro": 6,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629496.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-taina-mair",
@@ -2395,7 +2396,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 22,
     "yearsPro": 0,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1643473.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-dominique-malonga",
@@ -2406,7 +2407,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 20,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642798.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-jade-melbourne",
@@ -2417,7 +2418,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 24,
     "yearsPro": 3,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1631141.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-katie-lou-samuelson",
@@ -2428,7 +2429,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 29,
     "yearsPro": 5,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1629478.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-jaylyn-sherrod",
@@ -2439,7 +2440,7 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 24,
     "yearsPro": 2,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642320.png"
+    "image": ""
   },
   {
     "id": "seattle-storm-taylor-thierry",
@@ -2450,6 +2451,6 @@ window.WNBA_ROSTER = [
     "team": "SEA",
     "age": 23,
     "yearsPro": 1,
-    "image": "https://cdn.wnba.com/headshots/wnba/latest/260x190/1642814.png"
+    "image": ""
   }
 ];
