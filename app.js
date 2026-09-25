@@ -388,7 +388,7 @@ document.getElementById('screenshot-btn').addEventListener('click', () => {
 
         // 2. Create a temporary, invisible anchor link to trigger download
         const downloadLink = document.createElement('a');
-        downloadLink.download = 'webpage-screenshot.png'; // File name
+        downloadLink.download = 'wnba-awards-ballot.png'; // File name
         downloadLink.href = imageDataUrl;
 
         // 3. Programmatically click the link to save the file
