@@ -374,6 +374,31 @@ function enterCaptureMode() {
   exitCaptureButton.focus({ preventScroll: true });
 }
 
+document.getElementById('screenshot-btn').addEventListener('click', () => {
+    // Select the element you want to take a screenshot of
+    const targetElement = document.body; // or document.getElementById('capture-area')
+
+    html2canvas(targetElement, {
+        useCORS: true, // Allows loading images from cross-origin servers if configured properly
+        allowTaint: false
+    })
+    .then((canvas) => {
+        // 1. Convert the canvas element to a base64 Data URL
+        const imageDataUrl = canvas.toDataURL('image/png');
+
+        // 2. Create a temporary, invisible anchor link to trigger download
+        const downloadLink = document.createElement('a');
+        downloadLink.download = 'webpage-screenshot.png'; // File name
+        downloadLink.href = imageDataUrl;
+
+        // 3. Programmatically click the link to save the file
+        downloadLink.click();
+    })
+    .catch((error) => {
+        console.error('Failed to capture screenshot:', error);
+    });
+});
+
 function exitCaptureMode() {
   document.body.classList.remove("capture-mode");
   captureButton.focus({ preventScroll: true });

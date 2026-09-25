@@ -6,6 +6,7 @@
     <meta name="theme-color" content="#f36c00" />
     <title>2026 WNBA Awards Ballot | Pull Up Three</title>
     <link rel="stylesheet" href="styles.css" />
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script>
   </head>
   <body>
     <main class="ballot-shell">
@@ -23,8 +24,13 @@
           <span class="progress-track" aria-hidden="true"><span class="progress-fill" id="progress-fill"></span></span>
           <span id="selection-count" aria-live="polite">0 of 30 picks</span>
         </div>
+        <div id="capture-area">
+          
+        </div>
+
         <div class="toolbar-actions">
           <button class="text-button" id="reset-ballot" type="button">RESET</button>
+          <button class="primary-button" id="screenshot-btn">DOWNLOAD</button>
           <button class="primary-button" id="capture-view" type="button">CAPTURE</button>
         </div>
       </div>
