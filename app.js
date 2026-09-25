@@ -370,7 +370,6 @@ function enterCaptureMode() {
   document.body.classList.add("capture-mode");
   const smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   window.scrollTo({ top: 0, behavior: smooth ? "smooth" : "auto" });
-  
   exitCaptureButton.focus({ preventScroll: true });
 }
 
