@@ -376,9 +376,6 @@ function enterCaptureMode() {
 
 document.getElementById('screenshot-btn').addEventListener('click', () => {
     // Select the element you want to take a screenshot of
-  document.body.classList.add("capture-mode");
-  const smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  window.scrollTo({ top: 0, behavior: smooth ? "smooth" : "auto" });
     const targetElement = document.body; // or document.getElementById('capture-area')
 
     html2canvas(targetElement, {
@@ -391,7 +388,7 @@ document.getElementById('screenshot-btn').addEventListener('click', () => {
 
         // 2. Create a temporary, invisible anchor link to trigger download
         const downloadLink = document.createElement('a');
-        downloadLink.download = 'wnba-awards-ballot.png'; // File name
+        downloadLink.download = 'webpage-screenshot.png'; // File name
         downloadLink.href = imageDataUrl;
 
         // 3. Programmatically click the link to save the file
