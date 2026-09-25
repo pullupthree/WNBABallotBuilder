@@ -376,6 +376,9 @@ function enterCaptureMode() {
 
 document.getElementById('screenshot-btn').addEventListener('click', () => {
     // Select the element you want to take a screenshot of
+  document.body.classList.add("capture-mode");
+  const smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  window.scrollTo({ top: 0, behavior: smooth ? "smooth" : "auto" });
     const targetElement = document.body; // or document.getElementById('capture-area')
 
     html2canvas(targetElement, {
